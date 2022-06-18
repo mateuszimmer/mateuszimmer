@@ -1,7 +1,7 @@
 # Oi, eu sou o Mateus! 👋
 ### Estudante Full Stack Web Developer na Growdev
 
-<table width="900px">
+<table border=0>
   <tr>
     <td width="200px">
       <img hight="auto" src="computador.gif" alt="mateuszimmer" />
