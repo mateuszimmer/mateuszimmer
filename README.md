@@ -1,14 +1,14 @@
-> # Oi, eu sou o Mateus! 👋
-> ### Estudante Full Stack Web Developer na Growdev
+# Oi, eu sou o Mateus! 👋
+### Estudante Full Stack Web Developer na Growdev
 
-<div style="display: inline;" align="left" width="49.9%">
-<img width="100px" hight="auto" src="computador.gif" alt="mateuszimmer" />
+<div style="display: inline-block; width: 49,9%; text-align: left;">
+  <img width="100px" hight="auto" src="computador.gif" alt="mateuszimmer" />
 </div>
 
-<div  style="display: inline;" align="right" width="50%">
+<div  style="display: inline-block; width: 50%; text-align: right; vertical-position: upper;">
 
-### Que bom ter você aqui!
-![](https://komarev.com/ghpvc/?username=mateuszimmer&label=🍨_Você+é+meu+visitante+Nº)
+> ### Que bom ter você aqui!
+> ![](https://komarev.com/ghpvc/?username=mateuszimmer&label=🍨_Você+é+meu+visitante+Nº)
 
 </div>
 
