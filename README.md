@@ -1,4 +1,4 @@
-<div style="text-align: right;">
+<div align="right">
 
 ### Que bom ter você aqui!
 ![](https://komarev.com/ghpvc/?username=mateuszimmer&label=🍨_Você+é+meu+visitante+Nº)
