@@ -1,9 +1,4 @@
-<style>
-  .right {
-    text-align: right;
-  }
-</style>
-<div class="right">
+<div style="text-align: right;">
 
 ### Que bom ter você aqui!
 ![](https://komarev.com/ghpvc/?username=mateuszimmer&label=🍨_Você+é+meu+visitante+Nº)
