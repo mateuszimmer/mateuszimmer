@@ -1,22 +1,21 @@
 <h1 align="center"> Oi, eu sou o Mateus! 👋</h1>
 
-<>
+<div style="text-align: right;">
+
+ ### Que bom ter você aqui!
+ 
+ ![](https://komarev.com/ghpvc/?username=mateuszimmer&label=🍨_Você+é+meu+visitante+Nº)
+
+</div>
 
 > ### Estudante Full Stack Web Developer na Growdev 
 
 <img align="left" width="200px" height="200" src="computador.gif" alt="mateuszimmer"/> 
 
-<p align="right">
 
- ### Que bom ter você aqui!
- ![](https://komarev.com/ghpvc/?username=mateuszimmer&label=🍨_Você+é+meu+visitante+Nº)
 
-</p>
 
 ## Um pouco sobre mim:
-
-
-
 ### Hobbies
 <ul>
     <li>Gosto de aprender novas habilidades.</li>
