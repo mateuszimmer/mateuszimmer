@@ -1,12 +1,12 @@
 # Oi, eu sou o Mateus! 👋
 ### Estudante Full Stack Web Developer na Growdev
 
-<table border=0>
+<table>
   <tr>
-    <td width="200px">
+    <td width="200px" border="0">
       <img hight="auto" src="computador.gif" alt="mateuszimmer" />
     </td>
-    <td style="text-aling:rigth">
+    <td width="500px" style="text-aling:rigth" border="0">
 
 <div  style="text-align: right; rigth:0px">    
 
