@@ -1,14 +1,14 @@
 # Oi, eu sou o Mateus! 👋
 ### Estudante Full Stack Web Developer na Growdev
 
-<table width="100%">
+<table width="500px">
   <tr>
     <td width="200px">
       <img width="200 px" hight="auto" src="computador.gif" alt="mateuszimmer" />
     </td>
     <td style="text-aling:rigth">
 
-<div  style="display: inline-block; width: 50%; text-align: right; position: absolute; rigth:0px">    
+<div  style="text-align: right; rigth:0px">    
 
 > ### Que bom ter você aqui!
 > ![](https://komarev.com/ghpvc/?username=mateuszimmer&label=🍨_Você+é+meu+visitante+Nº)
