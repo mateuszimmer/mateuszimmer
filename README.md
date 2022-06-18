@@ -1,6 +1,6 @@
 <h1 align="center"> Oi, eu sou o Mateus! 👋</h1>
 
-> ## Estudante Full Stack Web Developer na Growdev
+> #### *Estudante Full Stack Web Developer na Growdev*
 
  <h3 align="center"> Que bom ter você aqui! 😄</h3>
  
