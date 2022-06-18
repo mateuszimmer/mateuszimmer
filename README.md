@@ -1,11 +1,10 @@
 # Oi, eu sou o Mateus! 👋
 > ## Estudante Full Stack Web Developer na Growdev
 
-
+ <h2 align="center"> Que bom ter você aqui! 😄</h2>
+ 
 <div align="right">
 
- ### Que bom ter você aqui!
- 
  ![](https://komarev.com/ghpvc/?username=mateuszimmer&label=🍨_Você+é+meu+visitante+Nº)
 
 </div>
@@ -32,7 +31,7 @@
 Forte experiência na área pública. De 2012 a 2018, trabalhei na Agência da Receita Federal em Araranguá/SC. Posteriormente, atuei em algumas empresas por um curto período de tempo.
 Atualmente, sou Gestor de Patrimônio da Prefeitura Municipal de Sapiranga.
 
-Estudando fortemente para uma futura transição de carreira. Quero ir para a área de TI
+Estudando bastante para uma futura transição de carreira. Quero ir para a área de TI
 
 ### 👨🏻‍💻 Linguagens
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -41,19 +40,3 @@ Estudando fortemente para uma futura transição de carreira. Quero ir para a á
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
-<!--
-**mateuszimmer/mateuszimmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
