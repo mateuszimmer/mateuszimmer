@@ -2,9 +2,9 @@
 
 <p>
 
-### Estudante Full Stack Web Developer na Growdev
+> ### Estudante Full Stack Web Developer na Growdev 
 
-</p>
+</p align="left">
 <p><img width="200px" height="200" src="computador.gif" alt="mateuszimmer"/></p>    
 
 <p align="right">
