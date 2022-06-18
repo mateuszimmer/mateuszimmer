@@ -2,10 +2,10 @@
 ### Estudante Full Stack Web Developer na Growdev
 
 <div style="display: inline-block; width: 49,9%; text-align: left;">
-  <img width="100px" hight="auto" src="computador.gif" alt="mateuszimmer" />
+  <img width="200px" hight="auto" src="computador.gif" alt="mateuszimmer" />
 </div>
 
-<div  style="display: inline-block; width: 50%; text-align: right; vertical-position: upper;">
+<div  style="display: inline-block; width: 50%; text-align: right; position: absolute; rigth:0px">
 
 > ### Que bom ter você aqui!
 > ![](https://komarev.com/ghpvc/?username=mateuszimmer&label=🍨_Você+é+meu+visitante+Nº)
