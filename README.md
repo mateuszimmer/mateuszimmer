@@ -1,6 +1,8 @@
-<h1 align="center"> Oi, eu sou o Mateus! 👋</h1>
+# Oi, eu sou o Mateus! 👋
+> ### Estudante Full Stack Web Developer na Growdev
 
-<div style="text-align: right;">
+
+<div align="right">
 
  ### Que bom ter você aqui!
  
@@ -8,7 +10,7 @@
 
 </div>
 
-> ### Estudante Full Stack Web Developer na Growdev 
+ 
 
 <img align="left" width="200px" height="200" src="computador.gif" alt="mateuszimmer"/> 
 
