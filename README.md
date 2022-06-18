@@ -1,3 +1,22 @@
+<style>
+  .divA {
+    background-color: #dddd;
+    width: 49%;
+    height: 100px;
+    display: inline-block;
+  }
+
+  .divB {
+    background-color: #999999;
+    width: 49%;
+    height: 100px;
+    text-align: right;
+    display: inline-block;
+  }
+
+</style>
+
+
 # Oi, eu sou o Mateus! 👋
 ### Estudante Full Stack Web Developer na Growdev
 
@@ -18,19 +37,14 @@
   </tr>
 </table>
 
-<div style="background-color:red">
-
-  <div style="background-color: #dddd; width: 300px; display: inline-block; position: relative;">
-  Texto
+  <div class="divA">
+    Texto
   </div>
 
-  <div style="background-color: #999999; width: 49%; hight: 100px; text-align: right; display: inline-block;">
-  <p>texto2</p>
-  <p>ads</p>
+  <div class="divB">
+    <p>texto2</p>
+    <p>ads</p>
   </div>
-
-  
-</div>
 
 
 
