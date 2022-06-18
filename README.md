@@ -1,54 +1,14 @@
-<style>
-  .divA {
-    background-color: #dddd;
-    width: 49%;
-    height: 100px;
-    display: inline-block;
-  }
-
-  .divB {
-    background-color: #999999;
-    width: 49%;
-    height: 100px;
-    text-align: right;
-    display: inline-block;
-  }
-
-</style>
-
-
 # Oi, eu sou o Mateus! 👋
-### Estudante Full Stack Web Developer na Growdev
 
-<table>
-  <tr>
-    <td width="200px" border="0">
-      <img hight="auto" src="computador.gif" alt="mateuszimmer" />
-    </td>
-    <td width="500px" style="text-aling:rigth" border="0">
+<p align="rigth">
 
-<div  style="text-align: right; rigth:0px">    
+>### Estudante Full Stack Web Developer na Growdev
+
+</p>
+<p><img width="200px" src="computador.gif" alt="mateuszimmer"/></p>    
 
 > ### Que bom ter você aqui!
 > ![](https://komarev.com/ghpvc/?username=mateuszimmer&label=🍨_Você+é+meu+visitante+Nº)
-
-</div>
-  </td>
-  </tr>
-</table>
-
-  <div class="divA">
-    Texto
-  </div>
-
-  <div class="divB">
-    <p>texto2</p>
-    <p>ads</p>
-  </div>
-
-
-
-
 ## Um pouco sobre mim:
 
 ### Hobbies
