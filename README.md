@@ -1,9 +1,8 @@
-### Que bom ter você aqui! 👋
+### Que bom ter você aqui!
 ![](https://komarev.com/ghpvc/?username=mateuszimmer&label=🍨_Você+é+meu+visitante+Nº)
-# Sou o Mateus!
+# Oi, eu sou o Mateus! 👋
+### Estudante Full Stack Web Developer na Growdev
 <br>
-
-<hr>
 ## Um pouco sobre mim:
 
 ### Hobbies
@@ -19,6 +18,13 @@
     <li>Administração, com Pós-Graduação em Gestão Empresarial;</li>
     <li>Em formação em Full Stack Web Developer pela Growdev;
 </ul>
+
+<dl>
+  <dt>Coffee</dt>
+  <dd>Black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>White cold drink</dd>
+</dl>
 
 ### Experiências profissionais
 
