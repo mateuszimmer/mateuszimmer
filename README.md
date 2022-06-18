@@ -18,12 +18,19 @@
   </tr>
 </table>
 
-<div style="display: inline-block; width: 49,9%; text-align: left;">
+<div style="background-color:red">
 
+  <div style="background-color: #dddd; width: 300px; display: inline-block; position: relative;">
+  Texto
+  </div>
+
+  <div style="background-color: #999999; width: 49%; hight: 100px; text-align: right; display: inline-block;">
+  <p>texto2</p>
+  <p>ads</p>
+  </div>
+
+  
 </div>
-
-
-
 
 
 
