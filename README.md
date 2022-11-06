@@ -32,7 +32,7 @@
 Forte experiência na área pública. De 2012 a 2018, trabalhei na Agência da Receita Federal em Araranguá/SC. Posteriormente, atuei em algumas empresas por um curto período de tempo.
 Atualmente, sou Gestor de Patrimônio da Prefeitura Municipal de Sapiranga.
 
-Estudando bastante para uma futura transição de carreira. Quero ir para a área de TI
+Estudando bastante para uma futura transição de carreira. Em formação Full Stack Web Developer Junior.
 
 ### 👨🏻‍💻 Linguagens
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
