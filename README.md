@@ -1,43 +1,68 @@
-<h1 align="center"> Oi, eu sou o Mateus! 👋</h1>
+<h1 align="center">Hi 👋, I'm Mateus Zimmer</h1>
+<h3 align="center">A Full Stack Web Developer Student from Brazil</h3>
 
-> #### *Estudante Full Stack Web Developer na Growdev*
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=mateuszimmer&label=Profile%20views&color=5d87ce&style=for-the-badge" alt="mateuszimmer" /> 
+</p>
 
- <h3 align="center"> Que bom ter você aqui! 😄</h3>
- 
-<div align="right">
-
- ![](https://komarev.com/ghpvc/?username=mateuszimmer&label=🍨_Você+é+meu+visitante+Nº)
-
-</div>
-
- 
-
-<img align="right" width="230px" height="230" src="computador.gif" alt="mateuszimmer"/> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mateuszimmer&show_icons=true&theme=dracula&locale=en" alt="mateuszimmer" />
 
 
+- 🔭 I’m currently working on Prefeitura de Sapiranga.
+
+- 🌱 I’m currently learning **SQL DB, NoSQL DB, API rest**
+
+- 📫 You can reach me **mateuszimmer.pro@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mateus-zimmer-785250113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateus-zimmer-785250113/" height="30" width="40" /></a>
+</p>
 
 
-## ✨ Um pouco sobre mim: ✨
-### 🔭 Hobbies
-- Gosto de aprender novas habilidades.
-- Durante as horas vagas, gosto de viajar.
-- Andar de moto é uma paixão.
 
-### 🎓 Formação 
-- Administração, com Pós-Graduação em Gestão Empresarial;
-- Em formação em Full Stack Web Developer pela Growdev;
 
-### 🛠 Experiências profissionais
+<p align="left" >
+<h3 align="left">Languages and Tools:</h3>
 
-Forte experiência na área pública. De 2012 a 2018, trabalhei na Agência da Receita Federal em Araranguá/SC. Posteriormente, atuei em algumas empresas por um curto período de tempo.
-Atualmente, sou Gestor de Patrimônio da Prefeitura Municipal de Sapiranga.
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuszimmer&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mateuszimmer" />
 
-Estudando bastante para uma futura transição de carreira. Em formação Full Stack Web Developer Junior.
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>     
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+</p>
 
-### 👨🏻‍💻 Linguagens
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
