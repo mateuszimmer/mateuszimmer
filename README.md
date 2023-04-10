@@ -7,8 +7,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mateuszimmer&show_icons=true&theme=dracula&locale=en" alt="mateuszimmer" />
 
-
-- 🌱 I’m currently learning **SQL DB, NoSQL DB, API rest**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 You can reach me **mateuszimmer.pro@gmail.com**
 
