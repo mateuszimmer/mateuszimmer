@@ -8,8 +8,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mateuszimmer&show_icons=true&theme=dracula&locale=en" alt="mateuszimmer" />
 
 
-- 🔭 I’m currently working on Prefeitura de Sapiranga.
-
 - 🌱 I’m currently learning **SQL DB, NoSQL DB, API rest**
 
 - 📫 You can reach me **mateuszimmer.pro@gmail.com**
@@ -63,6 +61,13 @@
   </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+     <a href="https://redis.io/" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
+  <a href="https://www.jestjs.io/" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> 
   </a> 
 </p>
 
